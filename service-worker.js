@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/corona-virus-data-visualizer/precache-manifest.60fc79a671407373b091f209d2210312.js"
+  "/corona-virus-data-visualizer/precache-manifest.9098a2ca23b50f0a5f25d917a8d1b674.js"
 );
 
 self.addEventListener('message', (event) => {
