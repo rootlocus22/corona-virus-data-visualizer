@@ -1,32 +1,32 @@
 {
   "files": {
     "main.css": "/corona-virus-data-visualizer/static/css/main.c8085e7c.chunk.css",
-    "main.js": "/corona-virus-data-visualizer/static/js/main.5694be49.chunk.js",
-    "main.js.map": "/corona-virus-data-visualizer/static/js/main.5694be49.chunk.js.map",
-    "runtime-main.js": "/corona-virus-data-visualizer/static/js/runtime-main.7ae488f2.js",
-    "runtime-main.js.map": "/corona-virus-data-visualizer/static/js/runtime-main.7ae488f2.js.map",
+    "main.js": "/corona-virus-data-visualizer/static/js/main.148d2065.chunk.js",
+    "main.js.map": "/corona-virus-data-visualizer/static/js/main.148d2065.chunk.js.map",
+    "runtime-main.js": "/corona-virus-data-visualizer/static/js/runtime-main.45c4c5fc.js",
+    "runtime-main.js.map": "/corona-virus-data-visualizer/static/js/runtime-main.45c4c5fc.js.map",
     "xlsx.js": "/corona-virus-data-visualizer/static/js/xlsx.eb3bc04e.chunk.js",
     "xlsx.js.map": "/corona-virus-data-visualizer/static/js/xlsx.eb3bc04e.chunk.js.map",
     "static/js/3.d198cebb.chunk.js": "/corona-virus-data-visualizer/static/js/3.d198cebb.chunk.js",
     "static/js/3.d198cebb.chunk.js.map": "/corona-virus-data-visualizer/static/js/3.d198cebb.chunk.js.map",
-    "static/js/4.4aeea08c.chunk.js": "/corona-virus-data-visualizer/static/js/4.4aeea08c.chunk.js",
-    "static/js/4.4aeea08c.chunk.js.map": "/corona-virus-data-visualizer/static/js/4.4aeea08c.chunk.js.map",
+    "static/js/4.49e021de.chunk.js": "/corona-virus-data-visualizer/static/js/4.49e021de.chunk.js",
+    "static/js/4.49e021de.chunk.js.map": "/corona-virus-data-visualizer/static/js/4.49e021de.chunk.js.map",
     "static/js/5.db1e36c9.chunk.js": "/corona-virus-data-visualizer/static/js/5.db1e36c9.chunk.js",
     "static/js/5.db1e36c9.chunk.js.map": "/corona-virus-data-visualizer/static/js/5.db1e36c9.chunk.js.map",
-    "static/js/6.3933d19d.chunk.js": "/corona-virus-data-visualizer/static/js/6.3933d19d.chunk.js",
-    "static/js/6.3933d19d.chunk.js.map": "/corona-virus-data-visualizer/static/js/6.3933d19d.chunk.js.map",
+    "static/js/6.70233f80.chunk.js": "/corona-virus-data-visualizer/static/js/6.70233f80.chunk.js",
+    "static/js/6.70233f80.chunk.js.map": "/corona-virus-data-visualizer/static/js/6.70233f80.chunk.js.map",
     "index.html": "/corona-virus-data-visualizer/index.html",
-    "precache-manifest.05be77a06ca312b474a0451a8d66a383.js": "/corona-virus-data-visualizer/precache-manifest.05be77a06ca312b474a0451a8d66a383.js",
+    "precache-manifest.5a1197b2068689f518d584c6d0857545.js": "/corona-virus-data-visualizer/precache-manifest.5a1197b2068689f518d584c6d0857545.js",
     "service-worker.js": "/corona-virus-data-visualizer/service-worker.js",
     "static/css/main.c8085e7c.chunk.css.map": "/corona-virus-data-visualizer/static/css/main.c8085e7c.chunk.css.map",
-    "static/js/4.4aeea08c.chunk.js.LICENSE.txt": "/corona-virus-data-visualizer/static/js/4.4aeea08c.chunk.js.LICENSE.txt",
+    "static/js/4.49e021de.chunk.js.LICENSE.txt": "/corona-virus-data-visualizer/static/js/4.49e021de.chunk.js.LICENSE.txt",
     "static/js/5.db1e36c9.chunk.js.LICENSE.txt": "/corona-virus-data-visualizer/static/js/5.db1e36c9.chunk.js.LICENSE.txt",
-    "static/js/6.3933d19d.chunk.js.LICENSE.txt": "/corona-virus-data-visualizer/static/js/6.3933d19d.chunk.js.LICENSE.txt"
+    "static/js/6.70233f80.chunk.js.LICENSE.txt": "/corona-virus-data-visualizer/static/js/6.70233f80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ae488f2.js",
-    "static/js/4.4aeea08c.chunk.js",
+    "static/js/runtime-main.45c4c5fc.js",
+    "static/js/4.49e021de.chunk.js",
     "static/css/main.c8085e7c.chunk.css",
-    "static/js/main.5694be49.chunk.js"
+    "static/js/main.148d2065.chunk.js"
   ]
 }
